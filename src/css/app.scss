@@ -1,0 +1,10 @@
+// app global css in SCSS form
+.done {
+  .q-item__label {
+    text-decoration: line-through;
+    color: #bbb;
+  }
+}
+.no-tasks {
+  opacity: 0.5;
+}
